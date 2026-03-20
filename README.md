@@ -11,15 +11,15 @@ Somos un grupo de estudiantes de **Ingeniería Ambiental, Industrial e Informát
 Nuestra principal motivación es el aprendizaje práctico. No buscamos soluciones complejas de inmediato, sino entender profundamente el "porqué" de los problemas locales para proponer respuestas técnicas que sean verdaderamente útiles y éticas.
 
 ## 🌍 Exploración de ODS
-Actualmente estamos en una etapa de diagnóstico participativo. Evaluamos los siguientes objetivos para aterrizar una problemática concreta:
+Actualmente estamos en una etapa de diagnóstico. Evaluamos los siguientes objetivos para aterrizar una problemática concreta:
 
-* **ODS 11: Ciudades y Comunidades Sostenibles** (Principal interés por su impacto en la realidad urbana).
+* **ODS 11: Ciudades y Comunidades Sostenibles**.
 * **ODS 4: Educación de Calidad**.
 * **ODS 13: Acción por el Clima**.
 
 ---
 
-## 👥 Integrantes (Orden Alfabético)
+## 👥 Integrantes
 
 | Foto | Apellidos y Nombres | Carrera | Correo |
 | :--- | :--- | :--- | :--- |
