@@ -13,9 +13,19 @@ Nuestra principal motivación es el aprendizaje práctico. No buscamos solucione
 ## 🌍 Exploración de ODS
 Actualmente estamos en una etapa de diagnóstico. Evaluamos los siguientes objetivos para aterrizar una problemática concreta:
 
-* **ODS 11: Ciudades y Comunidades Sostenibles**.
-* **ODS 4: Educación de Calidad**.
-* **ODS 13: Acción por el Clima**.
+* **ODS 11: Ciudades y Comunidades Sostenibles.**
+* **ODS 4: Educación de Calidad.**
+* **ODS 13: Acción por el Clima.**
+
+---
+
+## 📸 Fotografía del Equipo
+
+<p align="center">
+  <img src="Recursos/Imágenes/equipo.png" width="700" alt="Fotografía del Equipo 13">
+  <br>
+  <em>Figura 1. Integrantes del equipo 13 en sesión de trabajo</em>
+</p>
 
 ---
 
