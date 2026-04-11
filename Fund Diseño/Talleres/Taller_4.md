@@ -11,8 +11,10 @@ En esta sesión se realizó la vigilancia tecnológica para identificar solucion
 - **Solicitante / Inventor:** GOOD ROBOT MONITORING INC [CA]
 - **Resumen:** Sistema que utiliza sensores de CO2 y partículas para determinar la tasa de renovación del aire y el riesgo de infección por vía aérea basándose en la ocupación en tiempo real.
 - **Enlace:** [Espacenet - US2023107402A1](https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&CC=US&NR=2023107402A1)
-- ![Diagrama de la Patente 1](../recursos/imagenes/Patente1.png)
-
+<div align="center">
+  <img src="../recursos/imagenes/Patente1.png" alt="Diagrama de la Patente 1" width="400px">
+  <p><i>Figura 1</i></p>
+</div>
 
 ### Patente 2 ⎯ Detección por Redes Neuronales
 - **Título:** Método, sistema y dispositivo inteligente para la detección e identificación de la calidad del aire en el hogar, basado en una red neuronal artificial mejorada.
@@ -21,7 +23,10 @@ En esta sesión se realizó la vigilancia tecnológica para identificar solucion
 - **Solicitante / Inventor:** Instituto de Tecnología de Nanjing.
 - **Resumen:** Dispositivo basado en la plataforma STM32 e IoT que utiliza algoritmos de redes neuronales (FNN) para clasificar y reconocer contaminantes, temperatura y presión en hogares inteligentes.
 - **Enlace:** [Espacenet - CN120336783A](https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&CC=CN&NR=120336783A)
-- ![Diagrama de la Patente 2](../recursos/imagenes/Patente2.png)
+<div align="center">
+  <img src="../recursos/imagenes/Patente2.png" alt="Diagrama de la Patente 2" width="400px">
+  <p><i>Figura 2</i></p>
+</div>
 
 ### Patente 3 ⎯ Gestión de Aire con IA/ML
 - **Título:** Un sistema y método para la gestión de la calidad del aire.
@@ -30,7 +35,10 @@ En esta sesión se realizó la vigilancia tecnológica para identificar solucion
 - **Solicitante / Inventor:** HAMID YOUSUF HUSAINY [EN]
 - **Resumen:** Sistema de gestión para edificios que utiliza IoT y módulos de Inteligencia Artificial/Machine Learning para predecir la calidad del aire y optimizar el consumo de energía en unidades de tratamiento de aire.
 - **Enlace:** [Espacenet - WO2025141592A1](https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&CC=WO&NR=2025141592A1)
-- ![Diagrama de la Patente 3](../recursos/imagenes/Patente3.png)
+<div align="center">
+  <img src="../recursos/imagenes/Patente3.png" alt="Diagrama de la Patente 3" width="400px">
+  <p><i>Figura 3</i></p>
+</div>
 
 ## 3. Análisis de Innovación
 Tras el análisis de las patentes US2023107402A1, CN120336783A y WO2025141592A1,hemos identificado los siguientes vacíos críticos y tecnológicos que nuestra propuesta planea cubrir
