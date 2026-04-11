@@ -1,4 +1,4 @@
-<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/3379c7a8-9b71-43ee-8290-d23c950dd9b8" /><img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/3e450648-0de0-41f1-a66f-fea3fe1c805d" /># Taller 4: Búsqueda del Patentes
+# Taller 4: Búsqueda del Patentes
 
 ## 1. Introducción
 En esta sesión se realizó la vigilancia tecnológica para identificar soluciones existentes en el monitoreo y gestión de la calidad del aire interior. Nuestro objetivo es asegurar que nuestra propuesta aporte un valor agregado y no duplique tecnologías ya patentadas.
@@ -12,8 +12,8 @@ En esta sesión se realizó la vigilancia tecnológica para identificar solucion
 - **Resumen:** Sistema que utiliza sensores de CO2 y partículas para determinar la tasa de renovación del aire y el riesgo de infección por vía aérea basándose en la ocupación en tiempo real.
 - **Enlace:** [Espacenet - US2023107402A1](https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&CC=US&NR=2023107402A1)
 <div align="center">
-  <img src="../recursos/imagenes/Patente1.png" alt="Diagrama de la Patente 1" width="400px">
-  <p><i>Figura 1</i></p>
+  <img src="../recursos/imagenes/Patente1.png" alt="Diagrama de la Patente 1" width="500px">
+  <p><i>Figura 1:</i></p>
 </div>
 
 ### Patente 2 ⎯ Detección por Redes Neuronales
@@ -24,7 +24,7 @@ En esta sesión se realizó la vigilancia tecnológica para identificar solucion
 - **Resumen:** Dispositivo basado en la plataforma STM32 e IoT que utiliza algoritmos de redes neuronales (FNN) para clasificar y reconocer contaminantes, temperatura y presión en hogares inteligentes.
 - **Enlace:** [Espacenet - CN120336783A](https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&CC=CN&NR=120336783A)
 <div align="center">
-  <img src="../recursos/imagenes/Patente2.png" alt="Diagrama de la Patente 2" width="400px">
+  <img src="../recursos/imagenes/Patente2.png" alt="Diagrama de la Patente 2" width="500px">
   <p><i>Figura 2</i></p>
 </div>
 
@@ -36,7 +36,7 @@ En esta sesión se realizó la vigilancia tecnológica para identificar solucion
 - **Resumen:** Sistema de gestión para edificios que utiliza IoT y módulos de Inteligencia Artificial/Machine Learning para predecir la calidad del aire y optimizar el consumo de energía en unidades de tratamiento de aire.
 - **Enlace:** [Espacenet - WO2025141592A1](https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&CC=WO&NR=2025141592A1)
 <div align="center">
-  <img src="../recursos/imagenes/Patente3.png" alt="Diagrama de la Patente 3" width="400px">
+  <img src="../recursos/imagenes/Patente3.png" alt="Diagrama de la Patente 3" width="500px">
   <p><i>Figura 3</i></p>
 </div>
 
