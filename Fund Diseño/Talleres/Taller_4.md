@@ -12,8 +12,8 @@ En esta sesión se realizó la vigilancia tecnológica para identificar solucion
 - **Resumen:** Sistema que utiliza sensores de CO2 y partículas para determinar la tasa de renovación del aire y el riesgo de infección por vía aérea basándose en la ocupación en tiempo real.
 - **Enlace:** [Espacenet - US2023107402A1](https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&CC=US&NR=2023107402A1)
 <div align="center">
+  <img src="https://raw.githubusercontent.com/ShoukoKou/FdD_Equipo_13/main/Recursos/Im%C3%A1genes/Patente1.png" alt="Diagrama de la Patente 1" width="500">
   <p><i>Figura 1</i></p>
-  <img src="https://raw.githubusercontent.com/ShoukoKou/FdD_Equipo_13/main/Recursos/Im%C3%A1genes/Patente1.png" width="500px">
 </div>
 
 ### Patente 2 ⎯ Detección por Redes Neuronales
