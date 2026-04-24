@@ -21,8 +21,8 @@
 
 | Tipo | Exigencia | Descripción |
 |:---:|:---|:---|
-| **D** | Automatización | El sistema debe actuar sin intervención humana (Autónomo). |
-| **E** | Filtración | Debe contar con una etapa de purificación mecánica (Filtro). |
+| **D** | Automatización | El sistema debe actuar sin intervención humana. |
+| **E** | Filtración | Debe contar con una etapa de purificación mecánica. |
 | **E** | Normativa | Cumplir con CO2 < 1000 ppm y PM10 < 100 µg/m³. |
 | **D** | Bajo Costo | Materiales accesibles para instituciones públicas. |
 | **E** | Portabilidad | Diseño compacto para instalación en ductos de aulas o buses. |
