@@ -1,5 +1,5 @@
 ## 1. Introducción
-La calidad del aire en espacios cerrados es un factor determinante para la salud y el rendimiento cognitivo (11). En ciudades con alta carga contaminante como Lima, el ingreso de material particulado (PM2.5 y PM10) desde el exterior agrava la situación. El proyecto **Eco-Vent** propone una solución de ventilación activa basada en estándares internacionales de salud y normativas técnicas vigentes.
+El diseño del sistema **Eco-Vent** responde a la crítica situación de la calidad del aire en Lima Metropolitana, donde los niveles de material particulado (PM10 y PM2.5) superan frecuentemente los límites recomendados. La investigación demuestra que en espacios educativos con ventilación natural deficiente, la acumulación de CO2 impacta directamente en la capacidad de toma de decisiones y atención de los estudiantes. Considerando que la infraestructura educativa actual en distritos como San Antonio requiere intervenciones urgentes para alcanzar el confort térmico, nuestro proyecto integra sensores de alta precisión siguiendo los protocolos de ASHRAE para garantizar un entorno de aprendizaje seguro y productivo.
 
 ---
 
@@ -21,7 +21,7 @@ La calidad del aire en espacios cerrados es un factor determinante para la salud
 
 ### III. Impacto en la Salud y el Rendimiento Académico
 11. Satish U, Mendel MJ, Shekhar K, Hotchi T, Sullivan D, Streufert S, et al. Is CO2 an Indoor Pollutant? Direct Effects of Low-to-Moderate CO2 Concentrations on Human Decision-Making Performance. Environ Health Perspect [Internet]. 2012 [citado 2026 Abr 28];120(12). Disponible en: https://pmc.ncbi.nlm.nih.gov/articles/PMC3546345/
-12. Bakó-Biró Z, Clements-Croome DJ, Kochhar N, Awbi HB, Williams MJ. Ventilation rates in schools and pupils’ performance. Build Environ [Internet]. 2012 [citado 2026 Abr 28];48:215-223. Disponible en: https://doi.org/10.1016/j.buildenv.2011.08.018
+12. Bakó-Biró Z, Clements-Croome DJ, Kochhar N, Awbi HB, Williams MJ. Ventilation rates in schools and pupils’ performance. Build Environ [Internet]. 2012 [citado 2026 Abr 28];48:215-223. Disponible en: https://www.sciencedirect.com/science/article/abs/pii/S0360132311002617?via%3Dihub
 13. Coley DA, Greeves R, Saxby BK. The effect of low ventilation rates on the cognitive function of a primary school class. Int J Vent [Internet]. 2007 [citado 2026 Abr 28];6(2):107-112. Disponible en: https://doi.org/10.1080/14733315.2007.11683770
 14. Diaz M, Cools M, Trebilcock M, Piderit-Moreno B, Attia S. Effects of climatic conditions, season and environmental factors on CO2 concentrations in naturally ventilated primary schools in Chile. Sustainability [Internet]. 2021 [citado 2026 Abr 28];13(8):4139. Disponible en: https://www.mdpi.com/2071-1050/13/8/4139
 15. Alexander TZ, Rivera Poma JM. Evaluación del confort térmico en aulas y oficinas de la Facultad de Ingeniería Industrial de la UNMSM [Tesis en Internet]. Lima: Universidad Nacional Mayor de San Marcos; 2022 [citado 2026 Abr 28]. Disponible en: https://industrial.unmsm.edu.pe/investigacionfii/wp-content/uploads/2021/07/07.-TI-EPISST-TINEO-ZAMORA.pdf
