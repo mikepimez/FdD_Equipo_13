@@ -8,7 +8,7 @@ La calidad del aire en espacios cerrados es un factor determinante para la salud
 ### I. Estándares Internacionales y Objetivos Globales
 1. Organización de las Naciones Unidas. Informe de los Objetivos de Desarrollo Sostenible: edición especial [Internet]. Nueva York: ONU; 2023 [citado 2026 Abr 8]. Disponible en: https://unstats.un.org/sdgs/report/2023/
 2. World Health Organization. WHO global air quality guidelines: particulate matter (PM2.5 and PM10), ozone, nitrogen dioxide, sulfur dioxide and carbon monoxide [Internet]. Ginebra: WHO; 2021 [citado 2026 Abr 8]. Disponible en: https://www.who.int/publications/i/item/9789240034228
-3. ASHRAE. Ventilation for acceptable indoor air quality (Standard 62.1) [Internet]. Atlanta: ASHRAE; 2019 [citado 2026 Abr 8]. Disponible en: https://www.ashrae.org/technical-resources/standards-and-guidelines
+3. ASHRAE. Ventilation for acceptable indoor air quality (Standard 62.1) [Internet]. Atlanta: ASHRAE; 2019 [citado 2026 Abr 8]. Disponible en: https://www.ashrae.org/technical-resources/bookstore/standards-62-1-62-2
 4. United States Environmental Protection Agency. Indoor Air Quality (IAQ) [Internet]. Washington D.C.: EPA; 2023 [citado 2026 Abr 8]. Disponible en: https://www.epa.gov/indoor-air-quality-iaq
 5. European Environment Agency. Air quality in Europe — 2022 report [Internet]. Copenhague: EEA; 2022 [citado 2026 Abr 8]. Disponible en: https://www.eea.europa.eu/publications/air-quality-in-europe-2022
 
