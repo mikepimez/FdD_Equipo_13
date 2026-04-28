@@ -1,5 +1,5 @@
 ## 1. Introducción
-La calidad del aire en espacios cerrados es un factor determinante para la salud y el rendimiento cognitivo (11). En ciudades con alta carga contaminante como Lima, el ingreso de material particulado (PM2.5 y PM10) desde el exterior agrava la situación (6, 9). El proyecto **Eco-Vent** propone una solución de ventilación activa basada en estándares internacionales de salud y normativas técnicas vigentes (2, 3).
+La calidad del aire en espacios cerrados es un factor determinante para la salud y el rendimiento cognitivo (11). En ciudades con alta carga contaminante como Lima, el ingreso de material particulado (PM2.5 y PM10) desde el exterior agrava la situación. El proyecto **Eco-Vent** propone una solución de ventilación activa basada en estándares internacionales de salud y normativas técnicas vigentes.
 
 ---
 
