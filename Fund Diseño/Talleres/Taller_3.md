@@ -28,6 +28,5 @@ La calidad del aire en espacios cerrados es un factor determinante para la salud
 16. Johnson DL, Lynch RA, Floyd EL, Wang J, Bartels JN. Indoor air quality in classrooms: Environmental measures and effective ventilation rate modeling in urban elementary schools. Build Environ [Internet]. 2018 [citado 2026 Abr 28];136:185-197. Disponible en: https://doi.org/10.1016/j.buildenv.2018.03.040
 
 ### IV. Especificaciones Técnicas e Informes de Control
-17. Hanwei Electronics Group. MQ-135 Gas Sensor Datasheet [Internet]. [citado 2026 Abr 8]. Disponible en: https://www.handsontec.com/dataspecs/MQ-135.pdf
-18. Arduino. Arduino Documentation Reference [Internet]. 2024 [citado 2026 Abr 8]. Disponible en: https://www.arduino.cc/reference/en/
-19. Organismo de Evaluación y Fiscalización Ambiental. Evaluación Ambiental de Causalidad en la Planta Pomalca (Informe N° 00180-2023-OEFA) [Internet]. Lima: OEFA; 2023 [citado 2026 Abr 28]. Disponible en: https://repositorio.oefa.gob.pe/items/8f5525af-dd99-4b53-bb9c-635a1b3a9b2c
+17. Arduino. Arduino Documentation Reference [Internet]. 2024 [citado 2026 Abr 8]. Disponible en: https://www.arduino.cc/reference/en/
+18. Organismo de Evaluación y Fiscalización Ambiental. Evaluación Ambiental de Causalidad en la Planta Pomalca (Informe N° 00180-2023-OEFA) [Internet]. Lima: OEFA; 2023 [citado 2026 Abr 28]. Disponible en: https://repositorio.oefa.gob.pe/items/8f5525af-dd99-4b53-bb9c-635a1b3a9b2c
