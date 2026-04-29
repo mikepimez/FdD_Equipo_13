@@ -70,7 +70,7 @@ Adicionalmente, informes del Organismo de Evaluación y Fiscalización Ambiental
 
 En entornos educativos y laborales, la ventilación natural continúa siendo la estrategia predominante para la renovación del aire. Sin embargo, su efectividad depende de variables externas como condiciones climáticas, diseño arquitectónico y comportamiento del usuario.
 
-Estudios en contextos similares al latinoamericano (Díaz et al., 2021) demuestran que en aulas con ventilación natural, las concentraciones de CO2 superan frecuentemente los 1400 ppm, alcanzando picos de hasta 5000 ppm en condiciones de alta ocupación. Estos valores exceden ampliamente el umbral recomendado de 1000 ppm establecido por estándares internacionales como ASHRAE.
+Estudios en contextos similares al latinoamericano (Díaz et al., 2021) demuestran que en aulas con ventilación natural, las concentraciones de CO₂ superan frecuentemente los 1400 ppm, alcanzando picos de hasta 5000 ppm en condiciones de alta ocupación. Estos valores exceden ampliamente el umbral recomendado de 1000 ppm establecido por estándares internacionales como ASHRAE.
 
 Por otro lado, investigaciones realizadas en instituciones educativas peruanas (Huerta, 2018) evidencian que un alto porcentaje de infraestructura presenta deficiencias en estrategias pasivas de ventilación, requiriendo intervenciones adicionales para alcanzar condiciones aceptables de confort térmico.
 
@@ -82,11 +82,11 @@ Estos resultados confirman que la ventilación natural, por sí sola, no garanti
 
 ### 2.3 Impacto en la Salud & Rendimiento Cognitivo
 
-La calidad del aire interior tiene un impacto directo en la salud y en el desempeño cognitivo de los usuarios. El estudio de Satish et al. (2012) demuestra que concentraciones de CO2 de 1000 ppm generan deterioros significativos en la toma de decisiones, mientras que niveles de 2500 ppm producen reducciones severas en múltiples indicadores cognitivos.
+La calidad del aire interior tiene un impacto directo en la salud y en el desempeño cognitivo de los usuarios. El estudio de Satish et al. (2012) demuestra que concentraciones de CO₂ de 1000 ppm generan deterioros significativos en la toma de decisiones, mientras que niveles de 2500 ppm producen reducciones severas en múltiples indicadores cognitivos.
 
 De manera complementaria, investigaciones en entornos escolares (Bakó-Biró et al., 2012) evidencian que el aumento en las tasas de ventilación mejora significativamente la memoria, la velocidad de respuesta y la capacidad de atención de los estudiantes.
 
-Asimismo, estudios como el de Coley et al. (2007) indican que altos niveles de CO2 reducen la capacidad de concentración, afectando el rendimiento académico. En conjunto, esta evidencia posiciona la calidad del aire interior como un factor crítico tanto para la salud como para el desempeño humano.
+Asimismo, estudios como el de Coley et al. (2007) indican que altos niveles de CO₂ reducen la capacidad de concentración, afectando el rendimiento académico. En conjunto, esta evidencia posiciona la calidad del aire interior como un factor crítico tanto para la salud como para el desempeño humano.
 
 ---
 
@@ -102,7 +102,7 @@ Además, la carencia de registros sistemáticos dificulta la evaluación y preve
 
 A partir del análisis contextual, ambiental y científico, se identifica el siguiente problema central:
 
-> Se identifica una brecha crítica en el control ambiental de espacios de alta ocupación en Lima evidencia una brecha crítica en los sistemas de control ambiental. Actualmente, la ventilación pasiva y la intervención manual constante resultan insuficientes para estabilizar los niveles de CO2 y material particulado dentro de los rangos normativos, lo que exige una transición hacia mecanismos de control más efectivos y automatizados.
+> Se identifica una brecha crítica en el control ambiental de espacios de alta ocupación en Lima evidencia una brecha crítica en los sistemas de control ambiental. Actualmente, la ventilación pasiva y la intervención manual constante resultan insuficientes para estabilizar los niveles de CO₂ y material particulado dentro de los rangos normativos, lo que exige una transición hacia mecanismos de control más efectivos y automatizados.
 
 Esta problemática se ve intensificada por:
 
@@ -121,7 +121,7 @@ A partir del diagnóstico realizado, se evaluaron distintas estrategias comúnme
 * **Sistemas HVAC convencionales:**
   Requieren infraestructura compleja, alto costo de instalación y mantenimiento, lo que limita su implementación en instituciones públicas y entornos de bajos recursos.
 * **Purificadores de aire comerciales:**
-  Principalmente enfocados en filtración, pero sin garantizar renovación efectiva del aire ni control de CO2.
+  Principalmente enfocados en filtración, pero sin garantizar renovación efectiva del aire ni control de CO₂.
 * **Sistemas inteligentes basados en IA/IoT:**
   Tecnológicamente avanzados, pero económicamente inaccesibles y sobredimensionados para el contexto de aplicación del proyecto.
 
