@@ -118,10 +118,13 @@ A partir del diagnóstico realizado, se evaluaron distintas estrategias comúnme
 
 - **Ventilación natural:**
   Dependiente de condiciones externas como, por ejemplo, viento, temperatura, apertura de ventanas, demostrando ser inconsistente e insuficiente en entornos urbanos densos.
+  
 - **Sistemas HVAC convencionales:**
   Requieren infraestructura compleja, alto costo de instalación y mantenimiento, lo que limita su implementación en instituciones públicas y entornos de bajos recursos.
+  
 - **Purificadores de aire comerciales:**
   Principalmente enfocados en filtración, pero sin garantizar renovación efectiva del aire ni control de CO₂.
+  
 - **Sistemas inteligentes basados en IA/IoT:**
   Tecnológicamente avanzados, pero económicamente inaccesibles y sobredimensionados para el contexto de aplicación del proyecto.
 
