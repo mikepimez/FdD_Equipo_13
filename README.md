@@ -145,6 +145,25 @@ Componentes como:
 son reconocidos como líneas de desarrollo futuras, pero no forman parte del núcleo funcional requerido para la validación inicial del sistema.
 Esta decisión responde a un criterio de ingeniería que prioriza la validación de la función crítica del sistema antes de su expansión.
 
+## III. Alineación con los Objetivos de Desarrollo Sostenible (ODS)
+
+El desarrollo del sistema **Eco-Vent** se fundamenta en los principios de la Agenda 2030 de la Organización de las Naciones Unidas. Integramos un enfoque de ingeniería orientado a la salud, la sostenibilidad y la equidad, estableciendo una relación directa entre nuestra solución técnica y las metas globales de desarrollo.
+
+### 🏥 ODS 3 — Salud y Bienestar
+> **Meta 3.9:** Reducir sustancialmente el número de muertes y enfermedades producidas por productos químicos peligrosos y la contaminación del aire, el agua y el suelo.
+
+El proyecto contribuye directamente a esta meta mediante la mitigación de riesgos asociados a la exposición crónica a contaminantes críticos como el **Material Particulado (PM10)** y concentraciones elevadas de **CO₂**. Al automatizar la renovación del aire en espacios cerrados, Eco-Vent reduce la prevalencia de afecciones respiratorias y previene el deterioro cognitivo identificado en entornos de alta saturación.
+
+### 🏙️ ODS 11 — Ciudades y Comunidades Sostenibles
+> **Meta 11.6:** Reducir el impacto ambiental negativo per cápita de las ciudades, prestando especial atención a la calidad del aire y la gestión de los desechos.
+
+Eco-Vent aborda la problemática de la habitabilidad en micro-entornos urbanos densamente poblados como, por ejemplo, aulas, transporte masivo y viviendas cerca de focos industriales, etcétera. Nuestra solución democratiza el acceso a aire seguro mediante un sistema de **bajo costo y fácil implementación**, fortaleciendo la resiliencia de la infraestructura urbana en contextos donde los sistemas HVAC convencionales son técnica o económicamente inviables.
+
+### 🌿 ODS 13 — Acción por el Clima
+> **Meta 13.3:** Mejorar la educación, la sensibilización y la capacidad humana e institucional respecto de la mitigación del cambio climático y la adaptación a él.
+
+El sistema incorpora monitoreo ambiental en tiempo real, promoviendo indirectamente la conciencia sobre la calidad del aire y fomentando el uso de soluciones tecnológicas de bajo consumo energético para el control ambiental. Al utilizar ventilación mecánica controlada por demanda, optimizamos el uso de recursos y promovemos una respuesta eficiente frente a la variabilidad térmica y química del entorno, fomentando el uso de tecnologías sostenibles para el control ambiental.
+
 # ✦  ⁺
 
 ## 🌍 Exploración de ODS
