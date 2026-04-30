@@ -53,6 +53,8 @@ La calidad del aire en espacios interiores es un problema silencioso pero críti
 
 Por ello, nuestro trabajo busca generar una solución que no solo sea técnicamente viable, sino también socialmente relevante, promoviendo entornos más seguros, saludables y sostenibles.
 
+---
+
 ## II. Diagnóstico Técnico & Contextual del Problema
 ### 2.1 Contexto Ambiental en Lima Metropolitana
 
@@ -144,6 +146,8 @@ Componentes como:
 
 son reconocidos como líneas de desarrollo futuras, pero no forman parte del núcleo funcional requerido para la validación inicial del sistema.
 Esta decisión responde a un criterio de ingeniería que prioriza la validación de la función crítica del sistema antes de su expansión.
+
+---
 
 ## III. Alineación con los Objetivos de Desarrollo Sostenible (ODS)
 
