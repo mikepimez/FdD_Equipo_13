@@ -279,6 +279,150 @@ Frente a estas limitaciones, el sistema Eco-Vent se define por:
 
 Este enfoque establece una propuesta coherente con el problema identificado y orientada a su implementación en escenarios reales.
 
+---
+
+## V. Propuesta de Solución — Sistema Eco-Vent
+
+### 5.1 Concepto General del Sistema
+
+El sistema **Eco-Vent** se define como un dispositivo de ventilación mecánica autónoma de bajo costo, diseñado para mejorar la calidad del aire en espacios cerrados mediante la integración de monitoreo ambiental, procesamiento de datos y actuación automática.
+
+A diferencia de soluciones basadas únicamente en monitoreo, Eco-Vent incorpora un enfoque activo de control ambiental, en el cual el sistema no solo detecta condiciones desfavorables, sino que interviene directamente sobre el entorno mediante la renovación del aire.
+
+El sistema está orientado a operar de manera continua y sin intervención del usuario, adaptándose dinámicamente a las condiciones del ambiente interior.
+
+---
+
+### 5.2 Arquitectura General del Sistema
+
+Eco-Vent se estructura como un sistema mecatrónico compuesto por tres bloques funcionales principales:
+
+#### 1. Módulo de Sensado
+
+Encargado de la adquisición de variables ambientales relevantes para la evaluación de la calidad del aire. Incluye sensores para:
+
+* Temperatura y humedad relativa
+* Escalabilidad en concentración de CO₂ y material particulado
+
+Este módulo transforma variables físicas del entorno en señales eléctricas que pueden ser procesadas por el sistema.
+
+---
+
+#### 2. Módulo de Procesamiento y Control
+
+Implementado mediante un microcontrolador, este módulo constituye el núcleo de decisión del sistema. Sus funciones principales son:
+
+* Recepción y procesamiento de datos ambientales
+* Evaluación de condiciones en función de umbrales predefinidos
+* Ejecución de lógica de control autónoma
+
+El sistema compara continuamente las variables medidas con valores de referencia, permitiendo determinar el estado del ambiente en tiempo real.
+
+---
+
+#### 3. Módulo de Actuación
+
+Encargado de ejecutar la respuesta del sistema frente a condiciones desfavorables. Incluye:
+
+* Activación de ventiladores para la renovación del aire
+* Generación de flujo de aire hacia el exterior o hacia zonas de intercambio
+
+Este módulo convierte la decisión del sistema en una acción física sobre el entorno.
+
+---
+
+#### 4. Módulo de Interfaz
+
+Permite la comunicación del estado del sistema hacia el usuario mediante:
+
+* Indicadores visuales (LEDs)
+* Señales de alerta según el nivel de calidad del aire
+
+Su función es proporcionar información clara sin requerir interacción activa.
+
+---
+
+### 5.3 Lógica de Funcionamiento del Sistema
+
+El funcionamiento de Eco-Vent se basa en un ciclo continuo de cuatro etapas:
+
+1. **Adquisición de datos:**
+   El sistema mide variables ambientales del entorno en tiempo real.
+
+2. **Evaluación de condiciones:**
+   Los datos son comparados con umbrales establecidos (por ejemplo, CO₂ ≥ 1000 ppm o condiciones térmicas desfavorables).
+
+3. **Toma de decisión:**
+   El sistema determina si es necesario activar la ventilación.
+
+4. **Actuación:**
+   Se activa el sistema de ventilación mecánica hasta restablecer condiciones aceptables.
+
+Este ciclo se ejecuta de forma autónoma, garantizando una respuesta dinámica ante cambios en el ambiente.
+
+---
+
+### 5.4 Alcance del Prototipo de Validación
+
+El prototipo desarrollado en esta etapa tiene como objetivo validar el principio de funcionamiento del sistema, más no su implementación completa. Por ahora, la validación se centra en:
+
+* Adquisición de variables ambientales básicas (temperatura y humedad)
+* Procesamiento de datos mediante microcontrolador
+* Ejecución de lógica de control basada en umbrales
+* Activación de un actuador (ventilador o señal visual)
+
+Este enfoque permite demostrar la viabilidad del sistema en términos de:
+
+* Sensado
+* Procesamiento
+* Decisión
+* Actuación
+
+Componentes como sensores de CO₂, medición de material particulado, almacenamiento de datos y optimización avanzada se consideran extensiones futuras del sistema.
+
+---
+
+### 5.5 Justificación de la Arquitectura Propuesta
+
+La arquitectura de Eco-Vent responde directamente a las limitaciones identificadas en el análisis del problema:
+
+* Reduce la dependencia del usuario mediante automatización
+* Evita la complejidad de sistemas HVAC tradicionales
+* Mantiene un costo accesible mediante el uso de microcontroladores
+* Permite escalabilidad hacia sistemas más complejos
+
+Este diseño equilibra funcionalidad, costo y viabilidad, asegurando coherencia con el contexto de aplicación del proyecto.
+
+---
+
+### 5.6 Proyección de Desarrollo (Roadmap)
+
+El desarrollo del sistema se plantea en etapas progresivas:
+
+**Fase 1 — Validación funcional (actual):**
+
+* Implementación de prototipo básico
+* Verificación de lógica de control
+* Activación de actuadores simples
+
+**Fase 2 — Integración de sensores avanzados:**
+
+* Incorporación de sensores de CO₂
+* Medición de material particulado (PM2.5 / PM10)
+
+**Fase 3 — Optimización del sistema:**
+
+* Mejora en eficiencia energética
+* Ajuste dinámico de umbrales
+
+**Fase 4 — Expansión del sistema:**
+
+* Integración de registro de datos
+* Conectividad y monitoreo remoto
+* Interfaces digitales avanzadas
+
+Este enfoque permite evolucionar desde un prototipo funcional hacia una solución completa y escalable.
+
 # ✦  ⁺
 
 ## 📸 Fotografía del Equipo
