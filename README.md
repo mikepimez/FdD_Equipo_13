@@ -168,16 +168,118 @@ Eco-Vent aborda la problemática de la habitabilidad en micro-entornos urbanos d
 
 El sistema incorpora monitoreo ambiental en tiempo real, promoviendo indirectamente la conciencia sobre la calidad del aire y fomentando el uso de soluciones tecnológicas de bajo consumo energético para el control ambiental. Al utilizar ventilación mecánica controlada por demanda, optimizamos el uso de recursos y promovemos una respuesta eficiente frente a la variabilidad térmica y química del entorno, fomentando el uso de tecnologías sostenibles para el control ambiental.
 
-# ✦  ⁺
+---
 
-## 🌍 Exploración de ODS
-Actualmente estamos en una etapa de diagnóstico. Evaluamos los siguientes objetivos para aterrizar una problemática concreta:
+## IV. Requerimientos e Ingeniería (Metodología VDI 2206)
 
-* **ODS 11: Ciudades y Comunidades Sostenibles.**
-* **ODS 4: Educación de Calidad.**
-* **ODS 13: Acción por el Clima.**
+En esta sección, el problema identificado se traduce en criterios concretos de diseño siguiendo la metodología VDI 2206. Se establecen las funciones del sistema, los requerimientos asociados y los parámetros medibles que permitirán validar su desempeño.
+
+Este enfoque asegura que el desarrollo del sistema se base en lo que debe hacer antes de definir cómo se implementa.
 
 ---
+
+### 4.1 Funciones del Sistema
+
+El sistema Eco-Vent se define a partir de una función principal y un conjunto de funciones secundarias que estructuran su comportamiento.
+
+**Función principal:**
+- Mantener condiciones adecuadas de calidad del aire interior mediante ventilación mecánica controlada.
+
+**Funciones secundarias:**
+- Detectar variables ambientales (CO₂, temperatura y humedad).
+- Evaluar la calidad del aire en tiempo real en función de umbrales definidos.
+- Tomar decisiones de control de manera autónoma sin intervención del usuario.
+- Ejecutar la renovación activa del aire mediante actuadores.
+- Comunicar el estado del sistema a través de indicadores visuales.
+
+Estas funciones definen el comportamiento esperado del sistema y constituyen la base para el establecimiento de requerimientos.
+
+---
+
+### 4.2 Lista de Exigencias del Sistema
+
+A partir de las funciones definidas, se establecen los requerimientos que el sistema debe cumplir. Estos se clasifican en requerimientos de usuario, técnicos y restricciones.
+
+#### Requerimientos de Usuario
+
+- Operar de forma autónoma durante al menos 8 horas continuas sin intervención del usuario.
+- Mantener condiciones de aire saludable en espacios cerrados (CO₂ < 1000 ppm).
+- Proporcionar información clara e inmediata sobre la calidad del aire mediante indicadores visuales.
+- Ser accesible económicamente para su implementación en entornos reales.
+
+---
+
+#### Requerimientos Técnicos
+
+- Medir concentración de CO₂ en un rango mínimo de 400 a 5000 ppm.
+- Medir temperatura y humedad relativa del entorno.
+- Procesar datos en tiempo real con un tiempo de respuesta ≤ 5 minutos ante condiciones críticas.
+- Activar automáticamente el sistema de ventilación al superar los umbrales establecidos.
+- Mantener un consumo energético ≤ 15 W durante operación continua.
+- Garantizar funcionamiento continuo durante periodos prolongados (≥ 8 horas).
+- Integrar un sistema de señalización visual con tres estados (normal, moderado, tóxico).
+- Permitir el registro básico de datos para evaluación del desempeño del sistema.
+
+---
+
+#### Restricciones del Sistema
+
+- Costo total del prototipo ≤ 150 USD.
+- Uso de componentes disponibles en el mercado local.
+- Adaptabilidad a distintos tipos de espacios, por ejemplo, aulas u oficinas.
+- Diseño compacto y de fácil instalación.
+- Mantenimiento simple sin requerir personal altamente especializado.
+
+---
+
+### 4.3 Criterios Cuantitativos de Diseño
+
+Para validar el desempeño del sistema, se establecen indicadores medibles que permiten verificar el cumplimiento de su función principal:
+
+- Concentración de CO₂ objetivo: < 1000 ppm.
+- Umbral de activación del sistema: ≥ 1000 ppm.
+- Tiempo máximo de respuesta del sistema: ≤ 5 minutos.
+- Autonomía mínima de operación: ≥ 8 horas continuas.
+- Consumo energético máximo: ≤ 15 W.
+- Capacidad de renovación de aire definida en función del volumen del espacio, sea la tasa de renovación de aire por hora, ACH.
+
+Estos criterios permiten evaluar objetivamente el funcionamiento del sistema durante la fase de validación experimental.
+
+---
+
+### 4.4 Vigilancia Tecnológica y Análisis de Patentes
+
+Como parte del proceso de diseño, se realizó una revisión de soluciones existentes para identificar tendencias tecnológicas y oportunidades de diferenciación. El análisis evidencia que las soluciones actuales presentan las siguientes características:
+
+- Enfoque predominante en el monitoreo de variables como CO₂ y temperatura.
+- Uso de tecnologías avanzadas basadas en inteligencia artificial e IoT.
+- Integración en infraestructuras complejas de edificios inteligentes.
+
+A partir de ello, se identifican los siguientes vacíos:
+
+- **Limitado enfoque en material particulado (PM2.5 / PM10):**  
+  Las soluciones priorizan gases, sin considerar contaminantes sólidos relevantes en el contexto local.
+
+- **Predominio del monitoreo sobre la acción:**  
+  Muchos sistemas informan, pero no intervienen directamente sobre el ambiente.
+
+- **Alta complejidad y costo:**  
+  Las soluciones existentes dificultan su implementación en entornos de bajos recursos.
+
+---
+
+### 4.5 Posicionamiento de la Solución
+
+Frente a estas limitaciones, el sistema Eco-Vent se define por:
+
+- Acción directa sobre el ambiente mediante ventilación mecánica controlada.
+- Automatización sin dependencia de sistemas complejos de inteligencia artificial.
+- Diseño accesible, adaptable y de bajo costo.
+- Enfoque en contexto real, priorizando funcionalidad sobre complejidad tecnológica.
+
+Este enfoque establece una propuesta coherente con el problema identificado y orientada a su implementación en escenarios reales.
+
+# ✦  ⁺
 
 ## 📸 Fotografía del Equipo
 
