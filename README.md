@@ -439,9 +439,9 @@ Este enfoque permite evolucionar desde un prototipo funcional hacia una solució
 
 | Foto | Apellidos y Nombres | Carrera | Correo |
 | :--- | :--- | :--- | :--- |
-| ![David](https://github.com/bravotumbaydavid-cyber.png?size=50) | **Bravo Tumbay**, Elmer David | Ing. Informática | elmer.bravo@upch.pe |
-| ![Isabel](https://github.com/ShoukoKou.png?size=50) | **Padilla Romero**, Isabel Antonella | Ing. Informática | isabel.padilla@upch.pe |
-| ![Milagros](https://github.com/milagrosromero-design.png?size=50) | **Romero Yllaconza**, Milagros Lucero | Ing. Industrial | milagros.romero@upch.pe |
-| ![Aldair](https://github.com/aldairsilver.png?size=50) | **Silvera Huaman**, Aldair | Ing. Ambiental | aldair.silvera@upch.pe |
-| ![Minoru](https://github.com/mikepimez.png?size=50) | **Tapia Gómez**, Minoru Takeshi | Ing. Informática | minoru.tapia@upch.pe |
+| <img src="https://raw.githubusercontent.com/mikepimez/FdD_Equipo_13/main/Recursos/Im%C3%A1genes/Elmer Bravo.jpeg" alt="Elmer Bravo" width="200"> | **Bravo Tumbay**, Elmer David | Ing. Informática | elmer.bravo@upch.pe |
+| <img src="https://raw.githubusercontent.com/mikepimez/FdD_Equipo_13/main/Recursos/Im%C3%A1genes/Isabel Padilla.jpg" alt="Isabel Padilla" width="200"> | **Padilla Romero**, Isabel Antonella | Ing. Informática | isabel.padilla@upch.pe |
+| <img src="https://raw.githubusercontent.com/mikepimez/FdD_Equipo_13/main/Recursos/Im%C3%A1genes/Milagros Romero.jpeg" alt="Milagros Romero" width="200"> | **Romero Yllaconza**, Milagros Lucero | Ing. Industrial | milagros.romero@upch.pe |
+| <img src="https://raw.githubusercontent.com/mikepimez/FdD_Equipo_13/main/Recursos/Im%C3%A1genes/Aldair Silvera.jpeg" alt="Aldair Silvera" width="200"> | **Silvera Huaman**, Aldair | Ing. Ambiental | aldair.silvera@upch.pe |
+| <img src="https://raw.githubusercontent.com/mikepimez/FdD_Equipo_13/main/Recursos/Im%C3%A1genes/Minoru Tapia.jpeg" alt="Minoru Tapia" width="200"> | **Tapia Gómez**, Minoru Takeshi | Ing. Informática | minoru.tapia@upch.pe |
 
