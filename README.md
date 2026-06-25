@@ -428,7 +428,7 @@ Este enfoque permite evolucionar desde un prototipo funcional hacia una solució
 ## 📸 Fotografía del Equipo
 
 <p align="center">
-  <img src="Recursos/Imágenes/equipo.png" width="700" alt="Fotografía del Equipo 13">
+  <img src="Recursos/Imágenes/Fotos del Grupo/Equipo.png" width="700" alt="Fotografía del Equipo 13">
   <br>
   <em>Figura 1. Integrantes del equipo 13 en sesión de trabajo</em>
 </p>
@@ -439,9 +439,9 @@ Este enfoque permite evolucionar desde un prototipo funcional hacia una solució
 
 | Foto | Apellidos y Nombres | Carrera | Correo |
 | :--- | :--- | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/mikepimez/FdD_Equipo_13/main/Recursos/Im%C3%A1genes/Elmer Bravo.jpeg" alt="Elmer Bravo" width="200"> | **Bravo Tumbay**, Elmer David | Ing. Informática | elmer.bravo@upch.pe |
-| <img src="https://raw.githubusercontent.com/mikepimez/FdD_Equipo_13/main/Recursos/Im%C3%A1genes/Isabel Padilla.jpg" alt="Isabel Padilla" width="200"> | **Padilla Romero**, Isabel Antonella | Ing. Informática | isabel.padilla@upch.pe |
-| <img src="https://raw.githubusercontent.com/mikepimez/FdD_Equipo_13/main/Recursos/Im%C3%A1genes/Milagros Romero.jpeg" alt="Milagros Romero" width="200"> | **Romero Yllaconza**, Milagros Lucero | Ing. Industrial | milagros.romero@upch.pe |
-| <img src="https://raw.githubusercontent.com/mikepimez/FdD_Equipo_13/main/Recursos/Im%C3%A1genes/Aldair Silvera.jpeg" alt="Aldair Silvera" width="200"> | **Silvera Huaman**, Aldair | Ing. Ambiental | aldair.silvera@upch.pe |
-| <img src="https://raw.githubusercontent.com/mikepimez/FdD_Equipo_13/main/Recursos/Im%C3%A1genes/Minoru Tapia.jpeg" alt="Minoru Tapia" width="200"> | **Tapia Gómez**, Minoru Takeshi | Ing. Informática | minoru.tapia@upch.pe |
+| <img src="https://raw.githubusercontent.com/mikepimez/FdD_Equipo_13/main/Recursos/Im%C3%A1genes/Fotos del Grupo/Elmer Bravo.jpeg" alt="Elmer Bravo" width="200"> | **Bravo Tumbay**, Elmer David | Ing. Informática | elmer.bravo@upch.pe |
+| <img src="https://raw.githubusercontent.com/mikepimez/FdD_Equipo_13/main/Recursos/Im%C3%A1genes/Fotos del Grupo/Isabel Padilla.jpg" alt="Isabel Padilla" width="200"> | **Padilla Romero**, Isabel Antonella | Ing. Informática | isabel.padilla@upch.pe |
+| <img src="https://raw.githubusercontent.com/mikepimez/FdD_Equipo_13/main/Recursos/Im%C3%A1genes/Fotos del Grupo/Milagros Romero.jpeg" alt="Milagros Romero" width="200"> | **Romero Yllaconza**, Milagros Lucero | Ing. Industrial | milagros.romero@upch.pe |
+| <img src="https://raw.githubusercontent.com/mikepimez/FdD_Equipo_13/main/Recursos/Im%C3%A1genes/Fotos del Grupo/Aldair Silvera.jpeg" alt="Aldair Silvera" width="200"> | **Silvera Huaman**, Aldair | Ing. Ambiental | aldair.silvera@upch.pe |
+| <img src="https://raw.githubusercontent.com/mikepimez/FdD_Equipo_13/main/Recursos/Im%C3%A1genes/Fotos del Grupo/Minoru Tapia.jpeg" alt="Minoru Tapia" width="200"> | **Tapia Gómez**, Minoru Takeshi | Ing. Informática | minoru.tapia@upch.pe |
 
